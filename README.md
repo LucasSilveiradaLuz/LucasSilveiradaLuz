@@ -7,6 +7,7 @@ Tools:Excel,VS code,Word,Power point
 Languages: Portuguese(native) English(Advanced)
 ----
 EDUCATION
+----
 High school graduate-Instituto São Franscisco
 English Course-Wizard
 System development technical course
