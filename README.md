@@ -8,13 +8,17 @@ Currently learning:HTML,CSS,JS
 
 Tools:Excel,VS code,Word,Power point
 
-Languages: Portuguese(native) English(Advanced)
+Languages: Portuguese(native) English(Advanced);
+
 ----
 EDUCATION
 ----
 High school graduate-Instituto São Franscisco
+
 English Course-Wizard
-System development technical course
+
+System development technical course;
+
 ----
 Sobre Mim 
 ----
