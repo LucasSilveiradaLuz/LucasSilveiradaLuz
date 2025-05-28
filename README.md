@@ -1,3 +1,17 @@
+ABOUT ME
+Brazilian,from Cachoerinha-RS
+Student of System Development
+Currently learning:HTML,CSS,JS
+Tools:Excel,VS code,Word,Power point
+Languages: Portuguese(native) English(Advanced)
+----
+EDUCATION
+High school graduate-Instituto São Franscisco
+English Course-Wizard
+System development technical course
+
+
+
 
 
 Olá meu nome é Lucas Silveira da Luz 👋 
@@ -5,7 +19,7 @@ Estou fazendo um curso técnico de desenvolvimento de sistemas no Senac RS
 🌱 Estou atualmente aprendendo JavaScript,HTML,CSS
 Tenho o ensino médio completo 
 Inglês avançado
-Certificado em
+Certificado 
 
 ---
 ## Hi there my name is Lucas Silveira da Luz 👋
@@ -13,7 +27,7 @@ Certificado em
 🌱 I am currently learning JavaScript, HTML, and CSS.
 I have completed high school.
 Advanced English
-Certified in "
+Certified "
 
 <!--
 **LucasSilveiradaLuz/LucasSilveiradaLuz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
