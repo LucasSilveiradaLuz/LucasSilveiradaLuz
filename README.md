@@ -20,13 +20,33 @@ English Course-Wizard
 System development technical course;
 
 ----
-Sobre Mim 
+Sobre mim 
+-----
+Brasileiro, de Cachoerinha-RS
+
+Estudante de Desenvolvimento de Sistemas
+
+Atualmente estudando: HTML, CSS, JS
+
+Ferramentas: Excel, VS Code, Word, PowerPoint
+
+Idiomas: Português (nativo) Inglês (Avançado);
+------
+Education 
+-----
+Graduado no ensino médio-Instituto São Francisco
+
+Curso de inglês - Wizard 
+
+Curso técnico de desenvolvimento de sistemas;
+----
+Olá meu nome é Lucas Silveira da Luz 👋 
 ----
 
 
 
 
-Olá meu nome é Lucas Silveira da Luz 👋 
+
 Estou fazendo um curso técnico de desenvolvimento de sistemas no Senac RS
 🌱 Estou atualmente aprendendo JavaScript,HTML,CSS
 Tenho o ensino médio completo,Inglês avançado
