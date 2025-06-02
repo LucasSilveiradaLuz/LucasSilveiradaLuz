@@ -31,6 +31,8 @@ Atualmente estudando: HTML, CSS, JS
 Ferramentas: Excel, VS Code, Word, PowerPoint
 
 Idiomas: Português (nativo) Inglês (Avançado);
+
+
 ------
 Education 
 -----
@@ -39,12 +41,11 @@ Graduado no ensino médio-Instituto São Francisco
 Curso de inglês - Wizard 
 
 Curso técnico de desenvolvimento de sistemas;
+
+
 ----
 Olá meu nome é Lucas Silveira da Luz 👋 
 ----
-
-
-
 
 
 Estou fazendo um curso técnico de desenvolvimento de sistemas no Senac RS
