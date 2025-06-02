@@ -1,4 +1,4 @@
-ABOUT ME
+About me 
 ---
 Brazilian,from Cachoerinha-RS
 
@@ -11,7 +11,7 @@ Tools:Excel,VS code,Word,Power point
 Languages: Portuguese(native) English(Advanced);
 
 ----
-EDUCATION
+Education
 ----
 High school graduate-Instituto São Franscisco
 
