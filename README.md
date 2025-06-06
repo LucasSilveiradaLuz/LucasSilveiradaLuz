@@ -34,7 +34,7 @@ Idiomas: Português (nativo) Inglês (Avançado);
 
 
 ------
-Education 
+Educação
 -----
 Graduado no ensino médio-Instituto São Francisco
 
