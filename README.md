@@ -42,23 +42,11 @@ Curso de inglês - Wizard
 
 Curso técnico de desenvolvimento de sistemas;
 
-
-----
-Olá meu nome é Lucas Silveira da Luz 👋 
-----
-
-
-Estou fazendo um curso técnico de desenvolvimento de sistemas no Senac RS
-🌱 Estou atualmente aprendendo JavaScript,HTML,CSS
-Tenho o ensino médio completo,Inglês avançado
-
----
-## Hi there my name is Lucas Silveira da Luz 👋
-"I am taking a technical course in Systems Development at Senac RS.
-🌱 I am currently learning JavaScript, HTML, and CSS.
-I have completed high school,Advanced English
-
-
+<div>
+<a href="https://github.com/seu-usuário-aqui">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSilveiradaLuz&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasSilveiradaLuz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 <!--
 **LucasSilveiradaLuz/LucasSilveiradaLuz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
